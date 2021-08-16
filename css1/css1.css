@@ -1,6 +1,6 @@
-.background {
-	width: 100%; border-spacing: 0;
-	}
+body {
+	background: url(https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png);
+}
 
 .block {
 	border: 4px solid black;
