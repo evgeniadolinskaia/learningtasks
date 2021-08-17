@@ -1,0 +1,12 @@
+body {
+	background: url(./repeated-square.png);
+}
+
+.block {
+	background: url(./more-leaves.png);
+    width: 400px;
+    height: 200px;
+    margin: 240px auto 150px;
+   
+}
+
